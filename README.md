@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a JavaScript enthusiast with everything client-side. I do venture out into that amazing-yet scary world of the backedn sometimes. 
+
+- 🔭 I’m currently working on a feature-rich expense tracking application called [Expensary]([url](https://github.com/amittras-pal/expensary)).
+- 📫 How to reach me:
+  - [Linkedin](https://linkedin.com/in/amittras-pal) 
+  - Mail me on [pal.amittras@gmail.com](mailto:pal.amittras@gmail.com)
+  - Explore my blog - [The Pilfered Diaries](https://thepilfereddiaries.in)
+- ⚡ Fun fact: I love to click pictures - [My Gallery](https://instagram.com/the.pilfered.diaries)
+
 <!--
 **amittras-pal/amittras-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
